@@ -41,4 +41,18 @@ These are projects I dont use but I think are promising or have an interesting a
 + [Hare](https://harelang.org/) is a systems programming language it seems to be a modern day C, I think the features and the clean well structured syntax of the language are good early signs.
 + [melody](https://github.com/yoav-lavi/melody) is a language that compiles to regular expressions, I use a lot of regex and this might be a better way to backtrack what a regular expression does after the fact.
 + [fish](https://fishshell.com/) is a shell for NIX(-like) OSes, I personally use zsh but the features fish supports out of the box makes it promising for writing bash scripts in it.
-+ [Guile](https://www.gnu.org/software/guile/) is a programming language intended for extending/creating flexible applications. Default Make and GDB ship with Guile for configuring purposes.
++ [Guile](https://www.gnu.org/software/guile/) is a programming language intended for extending/creating flexible applications. Default Make and GDB ship with Guile for configuring the tools.
+
+End note:
+---------
+```
+                                   .
+                              .    |    .
+                               \   |   /
+                           '.   \  '  /   .'
+                             '. .'```'. .'
+<>......................:::::::`.......`:::::::.....................<>
+<>:The README is a little long, but I hope it was a pleasant read~ :<>
+<>:................................................................:<> jgs
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+```
