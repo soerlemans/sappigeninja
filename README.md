@@ -1,4 +1,6 @@
-<img src="weird_languages_guy.png" width="50%" alt="This is me" />
+<p align="center">
+  <img src="weird_languages_guy.png" width="50%" alt="This is me" />
+</p>
 
 Sappigeninja
 ============
@@ -43,7 +45,7 @@ These are projects I dont use but I think are promising or have an interesting a
 
 End note:
 ---------
-<pre>
+<pre width="80" style="display: flex; justify-content: center;">
 <code>
                                    .
                               .    |    .
@@ -56,17 +58,3 @@ End note:
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 </code>
 </pre>
-
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-pre {
-    display: flex;
-	justify-content: center;
-}
-</style>
