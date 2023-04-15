@@ -7,10 +7,8 @@ Sappigeninja
 Who am I?:
 ---------
 I am a 21 year old programmer from the Netherlands.
-I have various hobbies outside of programming but I like to keep more personal info private.
-
-I have a passion for programming and really like reading tech blogs and fidgeting with computers.
-I like to program in the following languages (these are loosely in order of how often I use them):
+I have a passion for programming and really like reading tech blogs and tinkering with computers.
+I like to program in the following languages:
 - C++ (23/17/14/11)
 - C
 - Python3+
