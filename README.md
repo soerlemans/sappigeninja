@@ -17,7 +17,7 @@ I like to program in the following languages:
    - Emacs Lisp
 - Bash/Zsh
 
-I have a website that I work on from time to time (its called [forestofunix](https://forestofunix.xyz)).
+I have a website that I work on from time to time ([forestofunix](https://forestofunix.xyz)).
 
 The best way to describe me is as the weird programming languages guy.
 
@@ -29,19 +29,3 @@ Software that I use frequently and why I use it.
 - [gawk](https://savannah.gnu.org/git/?group=gawk) I dont really use AWK daily but I think it is a really well designed little language that does what it is supposed to do.
 - [rofi](https://github.com/davatorium/rofi) rofi is an application launcher, extremely handy for shell scripting purposes.
 - [alacritty](https://github.com/alacritty/alacritty) is an excellent terminal emulator, sadly not as configurable as I would like.
-
-End note:
----------
-<pre width="80" style="display: flex; justify-content: center;">
-<code>
-                                   .
-                              .    |    .
-                               \   |   /
-                           '.   \  '  /   .'
-                             '. .'```'. .'
-<>......................:::::::`.......`:::::::.....................<>
-<>:The README is a little long, but I hope it was a pleasant read~ :<>
-<>:................................................................:<> jgs
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-</code>
-</pre>
